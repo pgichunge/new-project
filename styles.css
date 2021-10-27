@@ -1,6 +1,9 @@
 body 
 p{color: darkgoldenrod;}
-div{}
+
+b
+
+
   
   
   h1{color: chartreuse
@@ -14,4 +17,7 @@ div{}
     font-family: verdana;
     font-size: 20px;
   }
- img{size: 100px;}
+  .test-box {
+  padding:p ;  border: 2px solid red;
+    padding: 6px;
+  }
