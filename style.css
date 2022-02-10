@@ -23,7 +23,7 @@ body {
     border-width: 3px;
     border-bottom-width: 10px;
     border-top-style: double;
-    border: 5px red solid;
+    border: 5px rgb(17, 0, 255) solid;
     padding: 25px;
     margin: 20px;
 }
@@ -33,12 +33,12 @@ body {
     color: greenyellow;
     border-right: 5px red solid;
     border-left: 5px red solid;
-    border-top: 5px red solid;
+    border-top: 5px rgb(0, 255, 85) solid;
     border-bottom: 5px red solid;
     border-width: 3px;
     border-bottom-width: 10px;
     border-top-style: double;
-    border: 5px red solid;
+    border: 5px rgb(17, 0, 255) solid;
     padding: 25px;
     margin: 20px;
 }
@@ -49,11 +49,11 @@ body {
     border-right: 5px red solid;
     border-left: 5px red solid;
     border-top: 5px red solid;
-    border-bottom: 5px red solid;
+    border-bottom: 5px rgb(76, 0, 255) solid;
     border-width: 3px;
     border-bottom-width: 10px;
     border-top-style: double;
-    border: 5px red solid;
+    border: 5px rgb(68, 0, 255) solid;
     padding: 25px;
     margin: 20px;
 }
@@ -63,12 +63,12 @@ body {
     color: burlywood;
     border-right: 5px red solid;
     border-left: 5px red solid;
-    border-top: 5px red solid;
-    border-bottom: 5px red solid;
+    border-top: 5px rgb(0, 38, 255) solid;
+    border-bottom: 5px rgb(111, 0, 255) solid;
     border-width: 3px;
     border-bottom-width: 10px;
     border-top-style: double;
-    border: 5px red solid;
+    border: 5px rgb(4, 0, 255) solid;
     padding: 25px;
     margin: 20px;
 }
@@ -76,14 +76,14 @@ body {
 .box-5 {
     background-color: black;
     color: chartreuse;
-    border-right: 5px red solid;
-    border-left: 5px red solid;
-    border-top: 5px red solid;
-    border-bottom: 5px red solid;
+    border-right: 5px rgb(0, 26, 255) solid;
+    border-left: 5px rgb(38, 0, 255) solid;
+    border-top: 5px rgb(17, 0, 255) solid;
+    border-bottom: 5px rgb(25, 0, 255) solid;
     border-width: 3px;
     border-bottom-width: 10px;
     border-top-style: double;
-    border: 5px red solid;
+    border: 5px rgb(0, 26, 255) solid;
     padding: 25px;
     margin: 20px;
 }
@@ -101,7 +101,7 @@ img {
     text-decoration: underline;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: red;
+    color: rgb(4, 0, 255);
 }
 
 a {
@@ -109,7 +109,7 @@ a {
 }
 
 a:hover {
-    color: orangered;
+    color: rgb(0, 255, 106);
 }
 
 a:active {
@@ -130,7 +130,7 @@ body h2 {
     text-decoration: underline;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: red;
+    color: rgb(111, 0, 255);
 }
 
 body h3 {
